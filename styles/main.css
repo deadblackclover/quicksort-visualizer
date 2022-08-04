@@ -1,0 +1,12 @@
+.list {
+    display: flex;
+    align-items: flex-end;
+    margin: 10px;
+}
+
+.item {
+    width: 10px;
+    margin: 1px;
+    border-top: 5px solid black;
+    background-color: #c0c0c0;
+}
